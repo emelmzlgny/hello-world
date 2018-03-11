@@ -1,3 +1,3 @@
 # hello-world
-Hi people!
+Hi guys!
 I'm Emel
